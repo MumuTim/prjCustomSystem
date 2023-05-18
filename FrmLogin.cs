@@ -41,7 +41,7 @@ namespace prjCustomSystem
 
         private void btnCancel_Click(object sender, EventArgs e)
         {
-
+            int x = 1; int y =1;
         }
     }
 }
